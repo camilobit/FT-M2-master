@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#lista {
+  font-family: 'Franklin Gothic Medium';
+}
+.btn {
+  margin: 0.5rem;
+}
